@@ -1,0 +1,20 @@
+/* riwayat */
+.Riwayat-Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 139;
+  margin-right: 139;
+}
+
+.Riwayat {
+  margin-right: 10px;
+}
+
+.item-Riwayat {
+  height: 80px;
+  width: 1378px;
+  background-color: #e5f8fc;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}

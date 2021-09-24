@@ -1,0 +1,13 @@
+/* footer */
+.Footer {
+  background-color: #ffffff;
+  height: 121px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+}

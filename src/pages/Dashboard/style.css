@@ -1,0 +1,86 @@
+/* @font-face {
+  font-family: "Druk Wide Bold";
+  src: url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.eot");
+  src: url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.svg#Druk Wide Bold")
+      format("svg");
+} */
+
+/* dashboard */
+.h1-text {
+  font-family: "Inter", sans-serif;
+  font-size: 42px;
+}
+
+.text-navigation {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.Navigation {
+  display: flex;
+  margin-bottom: 22px;
+  align-items: center;
+}
+.item-Dashboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 126px;
+  height: 26px;
+  background-color: #4c9f70;
+  margin-left: 33px;
+  border-radius: 5px;
+  color: white;
+}
+
+.Dashboard-Item-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.item-big {
+  height: 233px;
+  width: 457px;
+  border-radius: 10px;
+}
+
+.item-low {
+  width: 178px;
+  height: 240px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.Dashboard-Item-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item-medium {
+  display: flex;
+  width: 300px;
+  height: 230px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.item-long {
+  display: flex;
+  width: 666px;
+  height: 230px;
+  background-color: white;
+  border-radius: 10px;
+}

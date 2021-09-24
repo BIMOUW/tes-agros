@@ -1,0 +1,127 @@
+/* @font-face {
+  font-family: "Druk Wide Bold";
+  src: url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.eot");
+  src: url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/2206d6cc490084998d531e8c1b2cbb4a.svg#Druk Wide Bold")
+      format("svg");
+} */
+
+.h1-text {
+  font-family: "Inter", sans-serif;
+  font-size: 42px;
+}
+.h1-text-sub {
+  font-family: "Inter", sans-serif;
+  font-size: 32px;
+}
+
+.text-regular {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+.text-order {
+  font-family: "Inter", sans-serif;
+  font-weight: 900;
+}
+
+.description-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+}
+
+.title-order {
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+}
+.title-desc {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.Purchase {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 280px;
+  background-color: white;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.Order {
+  height: 230px;
+  width: 767px;
+  background-color: white;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+.Purchase-Item {
+  display: flex;
+  margin-right: 36px;
+}
+
+.item-small {
+  display: flex;
+  width: 230px;
+  height: 230px;
+  background-color: #eff8f1;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+.Muatan {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 450px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.Status-Muatan {
+  margin-left: 36px;
+}
+
+.Status-Image {
+  display: flex;
+  align-items: center;
+}
+
+.Status-Box {
+  width: 1056px;
+  height: 384px;
+  background-color: #4c9f70;
+  margin-right: 36px;
+  margin-left: 36px;
+  border-radius: 10px;
+}
+
+.Status-Flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.Status {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.item-Status {
+  width: 329px;
+  height: 50px;
+  background-color: white;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}

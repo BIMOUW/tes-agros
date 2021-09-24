@@ -1,0 +1,31 @@
+/* riwayat */
+.Riwayat-Wrapper {
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.Riwayat {
+  margin-right: 10px;
+}
+
+.item-Riwayat {
+  height: 80px;
+  line-height: 80px;
+  width: "100%";
+  background-color: #fff;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.delivery-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+}
+.delivery-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+}

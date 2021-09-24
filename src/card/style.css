@@ -1,0 +1,99 @@
+.Navigation {
+  display: flex;
+  margin-bottom: 22px;
+  align-items: center;
+}
+.item-Dashboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 126px;
+  height: 26px;
+  background-color: #4c9f70;
+  margin-left: 33px;
+  border-radius: 5px;
+  color: white;
+}
+
+.Dashboard-Item-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.item-big {
+  height: 233px;
+  width: 457px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.item-low {
+  width: 178px;
+  height: 240px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.Dashboard-Item-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item-medium {
+  display: flex;
+  width: 300px;
+  height: 250px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.item-long {
+  display: flex;
+  width: 666px;
+  height: 250px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.title-text {
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+}
+
+.title-text-medium {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+}
+
+.description-text-medium {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.title-text-small {
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.description-text {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 200;
+}
+.description-text-number {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.description-text-small {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}

@@ -1,0 +1,58 @@
+/* navbar */
+.Navbar {
+  height: 110px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 139px;
+  margin-right: 139px;
+}
+.Navbar-Item {
+  display: flex;
+}
+
+.item {
+  width: 41px;
+  height: 41px;
+  background-color: #fff;
+  margin-right: 10px;
+}
+
+.User {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.item-User {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 168px;
+  height: 40px;
+  background-color: #fff;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 0.1px;
+  border-color: #ddd;
+  color: #4c9f70;
+}
+
+.item-User:hover .text-user {
+  display: none;
+  /* background-color: #4c9f70;
+  color: #fff; */
+}
+.item-User:hover::after {
+  content: "LOG OUT";
+  display: flex;
+  font-weight: bold;
+  color: #4c9f70;
+}
+
+.text-user {
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  font-size: 12px;
+}

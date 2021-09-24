@@ -1,0 +1,21 @@
+/* .Layanan */
+.regular-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.Layanan {
+  display: flex;
+  overflow-x: auto;
+  cursor: grab;
+}
+
+.item-Layanan {
+  display: inline-block;
+  height: 260px;
+  min-width: 520px;
+  background-color: #4c9f70;
+  margin-right: 60px;
+  border-radius: 10px;
+}
