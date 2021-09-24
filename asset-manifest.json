@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tes-agros/static/css/main.7b12561e.chunk.css",
+    "main.js": "/tes-agros/static/js/main.71b32553.chunk.js",
+    "main.js.map": "/tes-agros/static/js/main.71b32553.chunk.js.map",
+    "runtime-main.js": "/tes-agros/static/js/runtime-main.b96bee75.js",
+    "runtime-main.js.map": "/tes-agros/static/js/runtime-main.b96bee75.js.map",
+    "static/js/2.705dc009.chunk.js": "/tes-agros/static/js/2.705dc009.chunk.js",
+    "static/js/2.705dc009.chunk.js.map": "/tes-agros/static/js/2.705dc009.chunk.js.map",
+    "index.html": "/tes-agros/index.html",
+    "static/css/main.7b12561e.chunk.css.map": "/tes-agros/static/css/main.7b12561e.chunk.css.map",
+    "static/js/2.705dc009.chunk.js.LICENSE.txt": "/tes-agros/static/js/2.705dc009.chunk.js.LICENSE.txt",
+    "static/media/Agros_Vector.32f4f42a.png": "/tes-agros/static/media/Agros_Vector.32f4f42a.png",
+    "static/media/Background-Image.3ace2c63.png": "/tes-agros/static/media/Background-Image.3ace2c63.png",
+    "static/media/Background-blue.45067bc4.png": "/tes-agros/static/media/Background-blue.45067bc4.png",
+    "static/media/Background-green.4b2ef58d.png": "/tes-agros/static/media/Background-green.4b2ef58d.png",
+    "static/media/Capture.2a757167.JPG": "/tes-agros/static/media/Capture.2a757167.JPG",
+    "static/media/Capture2.f9a171c5.JPG": "/tes-agros/static/media/Capture2.f9a171c5.JPG",
+    "static/media/Capture3.5b24f025.JPG": "/tes-agros/static/media/Capture3.5b24f025.JPG",
+    "static/media/Capture4.c3f999fc.JPG": "/tes-agros/static/media/Capture4.c3f999fc.JPG",
+    "static/media/logo-agros.cc56d795.png": "/tes-agros/static/media/logo-agros.cc56d795.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96bee75.js",
+    "static/js/2.705dc009.chunk.js",
+    "static/css/main.7b12561e.chunk.css",
+    "static/js/main.71b32553.chunk.js"
+  ]
+}
